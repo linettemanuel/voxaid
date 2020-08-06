@@ -52,7 +52,7 @@ body {
 }
 
 h2 {
-	font-size: 40px;
+	font-size: 38px;
 	font-weight: 700;
 }
 
@@ -188,7 +188,7 @@ section {
 
 .btn-demo {
 	color: #ffffff;
-	background-color: #6772e5;
+	background-color: darkblue;
 	letter-spacing: .1em;
 	padding: 15px 48px;
 	display: inline-block;
@@ -203,7 +203,7 @@ section {
 
 .btn-demo-small {
 	font-size: 12px;
-	background-color: #6772e5;
+	background-color: darkblue;
 	padding: 1px 4px;
 }
 
@@ -254,8 +254,6 @@ section {
 #hero span {
 	font-weight: 400;
     color:darkcyan;
-    text-transform: uppercase;
-    letter-spacing: .05em;
 }
 
 /* ==============================================
@@ -415,7 +413,7 @@ section {
 }
 
 .pricing-box .demo {
-	color: #6772e5!important;
+	color: darkblue!important;
 }
 
 /* ==============================================
@@ -687,7 +685,6 @@ footer small {
 
 span {
 	font-size: xx-large;
-	display: none;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
